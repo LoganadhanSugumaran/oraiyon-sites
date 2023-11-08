@@ -4,7 +4,7 @@ This is CRUD project for oraiyan sites
 
 ## Prerequisite
 
-- Java 18
+- Java 17
 - MySQL DB
 - Maven 3
 
